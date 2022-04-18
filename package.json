@@ -1,0 +1,18 @@
+{
+  "name": "chatenvivo",
+  "version": "1.0.0",
+  "description": "esta es mi segunda web de un chatenvivo con firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "secondapp"
+  ],
+  "author": "tobias gomez",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.6.10"
+  }
+}
